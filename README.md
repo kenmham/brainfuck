@@ -7,7 +7,7 @@ The different files in bf/ are modular, and can be reused to connect to any fron
 
 (programs/math.py)
 
-```
+```py
 from bf.frontend import Frontend
 from bf import compile_ft
 
@@ -27,6 +27,6 @@ print(compile_ft(ft, annotate=True))
 
 Run it from root with:
 
-```
+```bash
 python3 -m programs.math
 ```
