@@ -2,7 +2,7 @@
 
 A handwritten tooling library for writing Brainfuck using high-level Python objects.
 
-The different files in bf/ are modular, and can be reused to connect to any frontend, for example direct Python transpiling or a custom programming language.
+The different files in `bf/` are modular, and can be reused to connect to any frontend, for example direct Python transpiling or a custom programming language.
 
 ## Example
 
